@@ -188,6 +188,6 @@ images/analise_turnover.png
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por [Lucas Cavalcante]
 
 Conecte-se comigo no LinkedIn para trocar ideias sobre SQL, Power BI, Analytics e Business Intelligence.
