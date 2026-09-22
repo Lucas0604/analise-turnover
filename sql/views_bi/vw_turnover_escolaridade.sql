@@ -1,5 +1,5 @@
+CREATE VIEW vw_turnover_escolaridade AS
 #Turnover por escolaridade 
-CREATE VIEW vw_turnover_escolaridade AS  
 WITH turnover_escolaridade AS (
 	SELECT
 		CASE
